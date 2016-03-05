@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./synopsistheolog00tanqgoog_0011.png"; bbox 0 0 2684 4634; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 215 1955 910 2038">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 215 1955 910 2038">
+     <span class='ocr_line' id='line_1_1' title="bbox 215 1955 910 2038; baseline 0 -20"><span class='ocrx_word' id='word_1_1' title='bbox 215 1958 276 2037; x_wconf 89' lang='lat' dir='ltr'>Jus</span> <span class='ocrx_word' id='word_1_2' title='bbox 299 1957 509 2038; x_wconf 81' lang='lat' dir='ltr'>proprietatis</span> <span class='ocrx_word' id='word_1_3' title='bbox 531 1955 646 2019; x_wconf 72' lang='lat' dir='ltr'>au8tor</span> <span class='ocrx_word' id='word_1_4' title='bbox 670 1957 733 2019; x_wconf 85' lang='lat' dir='ltr'>sibi</span> <span class='ocrx_word' id='word_1_5' title='bbox 755 1958 910 2018; x_wconf 71' lang='lat' dir='ltr'>w&#39;ndicat.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1346 4634">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1346 4634">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1346 4634; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1346 4634; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
